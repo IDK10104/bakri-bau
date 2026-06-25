@@ -373,7 +373,7 @@ function Hero() {
     <section id="home" ref={heroRef} className="relative bg-deep">
       <div className="relative min-h-[100dvh] overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=2400&q=80"
+          src="/hero.jpg"
           alt="Hagyományos európai stílusú családi ház kívülről"
           className="hero-photo absolute inset-0 w-full h-full object-cover"
           fetchPriority="high"
